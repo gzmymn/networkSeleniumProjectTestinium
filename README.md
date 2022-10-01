@@ -1,4 +1,4 @@
-# networkSeleniumProjectTestinium
+# Network Selenium Test Projesi
 
 Network sayfasına gidilir.
 
