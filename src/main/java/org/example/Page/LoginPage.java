@@ -26,15 +26,18 @@ public class LoginPage extends BasePage {
 
         sendKeys(By.cssSelector("input[name='Email']"),mail);
         sendKeys(By.cssSelector("input[name='Password']"),password);
+        logger.info("kullanici bilgileri alindi");
     }
 
     public void loginButtonExist(){
         isDisplayed(By.cssSelector("button[class='n-button large block text-center -primary ']"));
+        logger.info("giris yap butonu kontrol edilir");
     }
 
     public  void clickLogo(){
 
         clickElement(By.cssSelector("a[class='headerCheckout__logo']"));
+        logger.info("network logosuna tiklandi");
     }
 
 

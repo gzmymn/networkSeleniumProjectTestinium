@@ -141,3 +141,24 @@
 2022-10-01 16:19:15 INFO  networkTestProje:40 - sepetten urun silinir
 2022-10-01 16:19:16 INFO  networkTestProje:35 - sepet logosuna tiklanir
 2022-10-01 16:19:16 INFO  networkTestProje:50 - sepetin bos oldugu kontrol edilir
+2022-10-01 17:37:58 INFO  networkTestProje:20 - https://www.network.com.tr/adresine gidilir
+2022-10-01 17:37:59 INFO  networkTestProje:25 - url kontrol edildi
+2022-10-01 17:38:03 INFO  networkTestProje:31 - ceket arandi
+2022-10-01 17:38:17 INFO  networkTestProje:27 - Daha fazla urun gor
+2022-10-01 17:38:17 INFO  networkTestProje:32 - url kontrol edildi
+2022-10-01 17:38:17 INFO  networkTestProje:37 - indirimli ilk urunun uzerine gelinir
+2022-10-01 17:38:18 INFO  networkTestProje:42 - rastgele beden secilir
+2022-10-01 17:38:19 INFO  networkTestProje:52 - urun fiyati getirilir
+2022-10-01 17:38:19 INFO  networkTestProje:48 - urun bedeni getirilir
+2022-10-01 17:38:21 INFO  networkTestProje:58 - sepete gidilir
+2022-10-01 17:38:24 INFO  networkTestProje:27 - fiyat karsilastirildi
+2022-10-01 17:38:24 INFO  networkTestProje:22 - beden karsilastirildi
+2022-10-01 17:38:24 INFO  networkTestProje:48 - devam edildi
+2022-10-01 17:38:31 INFO  networkTestProje:29 - kullanici bilgileri alindi
+2022-10-01 17:38:31 INFO  networkTestProje:34 - giris yap butonu kontrol edilir
+2022-10-01 17:38:34 INFO  networkTestProje:40 - network logosuna tiklandi
+2022-10-01 17:38:35 INFO  networkTestProje:36 - sepet logosuna tiklanir
+2022-10-01 17:38:35 INFO  networkTestProje:41 - sepetten urun silinir
+2022-10-01 17:38:36 INFO  networkTestProje:46 - urunun silindigi dogrulandi
+2022-10-01 17:38:36 INFO  networkTestProje:36 - sepet logosuna tiklanir
+2022-10-01 17:38:37 INFO  networkTestProje:52 - sepetin bos oldugu kontrol edilir

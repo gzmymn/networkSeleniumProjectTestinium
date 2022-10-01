@@ -28,6 +28,7 @@ public class HomePage extends BasePage {
 
     public void search(){
         sendKeys(By.cssSelector("input[name='searchKey']"),"ceket" + Keys.ENTER);
+        logger.info("ceket arandi");
     }
 
     public void clickBasketLogo(){
@@ -42,6 +43,7 @@ public class HomePage extends BasePage {
 
     public void confirmRemove(){
         clickElement(By.cssSelector("button[class='btn -black o-removeCartModal__button']"));
+        logger.info("urunun silindigi dogrulandi");
     }
 
     public void checkBasketEmpty(){

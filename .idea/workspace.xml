@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01951725-3372-48dd-8ded-e57a8df2c9d8" name="Changes" comment="gzm">
+    <list default="true" id="01951725-3372-48dd-8ded-e57a8df2c9d8" name="Changes" comment="gizem1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/networkTESTLOGs.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/networkTESTLOGs.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Page/BasketPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Page/BasketPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Page/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Page/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Page/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Page/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Page/ProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Page/ProductPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +55,22 @@
       <recent name="C:\Users\Lenovo\IdeaProjects\networkSeleniumProjectTestinium\src\test\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.networkTestProje">
+  <component name="RunManager" selected="JUnit.networkTestProje (1)">
+    <configuration name="networkTestProje (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="networkProjectWithSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Test" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Test.networkTestProje" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="networkTestProje" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="networkSeleniumProjectTestinium" />
       <extension name="coverage">
@@ -85,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.networkTestProje (1)" />
         <item itemvalue="JUnit.networkTestProje" />
         <item itemvalue="JUnit.networkTestProje.lcwSeleniumTest" />
       </list>
@@ -106,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664632155993</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="gizem1">
+      <created>1664632930585</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664632930585</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +149,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gzm" />
-    <option name="LAST_COMMIT_MESSAGE" value="gzm" />
+    <MESSAGE value="gizem1" />
+    <option name="LAST_COMMIT_MESSAGE" value="gizem1" />
   </component>
 </project>

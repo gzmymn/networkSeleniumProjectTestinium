@@ -19,10 +19,12 @@ public class BasketPage extends BasePage {
         WebElement element=findElements(By.cssSelector("span[class='cartItem__attrValue']")).get(0);
         String basketSize=element.getText();
         Assert.assertEquals(basketSize, ProductPage.productSize);
+        logger.info("beden karsilastirildi");
     }
     public void comparePrice(){
         String basketPrice=getText(By.cssSelector("span[class='cartItem__price -sale']"));
         Assert.assertEquals(basketPrice, ProductPage.productPrice);
+        logger.info("fiyat karsilastirildi");
     }
 
     public Boolean compareSale(){
@@ -38,9 +40,11 @@ public class BasketPage extends BasePage {
          else {
              return false;
         }
+
     }
 
     public void proceed(){
         clickElement(By.cssSelector("button[class='continueButton n-button large block text-center -primary']"));
+        logger.info("devam edildi");
     }
 }

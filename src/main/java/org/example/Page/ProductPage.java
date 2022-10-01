@@ -45,11 +45,11 @@ public class ProductPage extends BasePage {
     public void getSize(){
         WebElement element=findElements(By.cssSelector("div[class='header__basketProductVariation--val']")).get(1);
         productSize = element.getText();
-        System.out.println(productSize);
+        logger.info("urun bedeni getirilir");
     }
     public void getPrice(){
         productPrice = getText(By.cssSelector("span[class='a-product__price -salePrice']"));
-        System.out.println(productPrice);
+        logger.info("urun fiyati getirilir");
     }
 
     public void goToBasket(){
