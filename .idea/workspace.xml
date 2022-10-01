@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="325ddd45-2496-4b58-b145-0ed7f4e601da" name="Changes" comment="">
+    <list default="true" id="01951725-3372-48dd-8ded-e57a8df2c9d8" name="Changes" comment="gzm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +37,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Lenovo/Desktop/networkSeleniumProjectTestinium",
-    "project.structure.last.edited": "Project",
+    "last_opened_file_path": "C:/Users/Lenovo/Desktop/networkSeleniumProjectTestinium/src/test/resources",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\networkSeleniumProjectTestinium\src\test\resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Lenovo\IdeaProjects\networkSeleniumProjectTestinium\src\test\resources" />
     </key>
@@ -95,6 +99,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664565559565</updated>
     </task>
+    <task id="LOCAL-00001" summary="gzm">
+      <created>1664632155993</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664632155993</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,5 +119,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gzm" />
+    <option name="LAST_COMMIT_MESSAGE" value="gzm" />
   </component>
 </project>
